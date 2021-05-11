@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Resume is to ...
+This is my resume career repo.
 
