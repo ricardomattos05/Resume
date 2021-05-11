@@ -5,5 +5,3 @@
 <!-- badges: end -->
 
 This is my resume career repo.
-
-as
