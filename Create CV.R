@@ -10,7 +10,7 @@ datadrivencv::use_datadriven_cv(
   full_name = "Ricardo Mattos",
   data_location = "https://docs.google.com/spreadsheets/d/1OATnKUyM39hQmle_Mi3mgrfqnAs1BtI72PYV8AuwKh4",
   pdf_location = "https://github.com/ricardomattos05/Resume/raw/master/ricardomattos_cv.pdf",
-  html_location = "https://ricardomattos05.github.io/resume/",
+  html_location = "https://ricardomattos05.github.io/resume/cv.html",
   source_location = "https://github.com/ricardomattos05/Resume"
 )
 
